@@ -1,9 +1,9 @@
-import Navbar from "./frontend/components/Navbar";
-import Carousel from "./frontend/components/carousel";
-import Products from "./frontend/components/products";
-import ContactForm from "./frontend/components/contactForm";
-import Footer from "./frontend/components/footer";
-import IndustriesSection from "./frontend/components/industries";
+import Navbar from "@components/navbar";
+import Carousel from "@components/carousel";
+import Products from "@components/products";
+import ContactForm from "@components/contactForm";
+import Footer from "@components/footer";
+import IndustriesSection from "@components/industries";
 
 export default function App() {
   return (
